@@ -1,5 +1,5 @@
 # repository-basic
-###이 'repository'는,
+### 이 'repository'는,
 * Remote repository의 생성
 * Local로 Clone
 * Local에서 수정
